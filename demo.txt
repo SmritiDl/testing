@@ -4,11 +4,4 @@ scorecard
 
 
 
-rangefinder
-scorecard
 
-rangefinder
-scorecard
-
-rangefinder
-scorecard
