@@ -9,4 +9,6 @@ scorecard
 
 rangefinder
 scorecard
-reserve tee time 
+
+rangefinder
+scorecard
